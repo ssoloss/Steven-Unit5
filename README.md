@@ -23,4 +23,12 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/ttKacT02TznOOGHMDi/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://media.giphy.com/media/zSVxmeVMMeTyHsZvmn/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://media.giphy.com/media/4J1CyUXjzYKfTZ3SHE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Showing user can create account
+
+<img src='https://media.giphy.com/media/YOsIbf2R4Vvr6GSAPe/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
