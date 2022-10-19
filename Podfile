@@ -8,6 +8,7 @@ target 'Unit5' do
   # Pods for Unit5
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
   target 'Unit5Tests' do
     inherit! :search_paths
